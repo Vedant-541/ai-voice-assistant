@@ -25,7 +25,7 @@ def Speak(Text):
 
     else:
         print("")
-        print(f"JARVIS : {Text}")
+        print(f"VOICE ASSISTANT : {Text}")
         print("")
         Data = str(Text)
         xpathofsec = '//*[@id="voicetext"]'   #area where text which has to be read is pasted
