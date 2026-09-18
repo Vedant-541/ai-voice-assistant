@@ -1,0 +1,12 @@
+google-generativeai
+numpy
+nltk
+PyAutoGUI
+PyQt5
+python-dotenv
+SpeechRecognition
+googletrans==4.0.0-rc1
+keyboard
+PyAudio
+selenium
+torch

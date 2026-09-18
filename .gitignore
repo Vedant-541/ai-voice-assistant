@@ -1,0 +1,14 @@
+# Secrets and local configuration
+.env
+
+# Personal conversation history and generated model data
+Database/*.txt
+Database/*.pth
+
+# Python and macOS files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+._*
