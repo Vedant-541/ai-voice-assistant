@@ -25,7 +25,7 @@ This project needs a Gemini API key. Never paste that key into source code or co
 4. Start the assistant:
 
    ```bash
-   python jarvis.py
+   python voice_assistant.py
    ```
 
 ## Notes
